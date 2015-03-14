@@ -1,0 +1,1 @@
+The Project contains utility scripts for generating XML Schema from Oracle EBS and in mapping the XML to Entities.
